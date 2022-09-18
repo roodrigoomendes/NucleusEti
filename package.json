@@ -1,0 +1,22 @@
+{
+  "name": "nucleuseti",
+  "version": "1.0.0",
+  "description": "Teste técnico para vaga de estagio QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roodrigoomendes/NucleusEti.git"
+  },
+  "author": "Rodrigo Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roodrigoomendes/NucleusEti/issues"
+  },
+  "homepage": "https://github.com/roodrigoomendes/NucleusEti#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
