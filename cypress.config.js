@@ -9,7 +9,8 @@ module.exports = defineConfig({
       "overwrite": true,
       "html": true,
       "json": false,
-      "timestamp":"mmddyyyy_HHMMss"
+      "timestamp":"mmddyyyy_HHMMss",
+      reportFilename: "[name]-report",
     },
     setupNodeEvents(on, config) {
       // implement node event listeners here
