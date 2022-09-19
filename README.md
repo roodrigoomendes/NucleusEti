@@ -32,7 +32,7 @@ Escolhi ultilizar duas aplicações diferentes para diferentes abordagens:
 
 
 ## Alura Pic
-<details><summary>🗒️ Documentação</summary>
+<details><summary>🗒️ Documentação <sub> Aperte aqui para ver</sub></summary>
 
 ## 🧪 Ciclo de Teste:
 <img  alt="Relatorio de teste AluraPic" width="700" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/AluraPic.png?raw=true">
@@ -72,8 +72,8 @@ Escolhi ultilizar duas aplicações diferentes para diferentes abordagens:
 
 </details>
 
-## Amazon
-<details><summary>🗒️ Documentação</summary>
+## Amazon 
+<details><summary>🗒️ Documentação <sub> Aperte aqui para ver</sub></summary>
 
 ## 🧪 Ciclo de Teste:
 <img  alt="Relatorio de teste Amazon" width="700" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Amazon.png?raw=true">
