@@ -1,11 +1,18 @@
 <div id="top"></div>
 
-## Objetivo
+## 🚩 Objetivo
 
 Avaliar capacidade técnica do candidato(a) com as tecnologias requeridas pela vaga, tais
 como uso do GIT, javascript e boas práticas e organização de código.
 
-## Tecnologias utilizadas
+## 🔀 tomada de decisão 
+
+Escolhi ultilizar duas aplicações diferentes para diferentes abordagens:
+- Alura Pic: uma aplicação de ambiente controlado sem muita troca de informaçoes no back-end, interações com formulario e mensagens onde cada teste tem um ponto de origem em comum.
+
+- Amazon: Site de varejo popular onde há muitas trocas de informação pelo banck-end e conexões podem variar tornando um ambiente de muitas variaveis na qual pode e irá interferir no teste aplicado seja pelo tempo de resposta ou conexão, metodo na qual tem um fluxo longo e sequencial para testar uma funcionalidade.
+
+## 💻 Tecnologias utilizadas
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,9 +32,9 @@ como uso do GIT, javascript e boas práticas e organização de código.
 
 
 ## Alura Pic
-<details><summary>Documentação</summary>
+<details><summary>🗒️ Documentação</summary>
 
-## Ciclo de Teste:
+## 🧪 Ciclo de Teste:
 <img  alt="Relatorio de teste AluraPic" width="700" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/AluraPic.png?raw=true">
 
 
@@ -66,9 +73,9 @@ como uso do GIT, javascript e boas práticas e organização de código.
 </details>
 
 ## Amazon
-<details><summary>Documentação</summary>
+<details><summary>🗒️ Documentação</summary>
 
-## Ciclo de Teste:
+## 🧪 Ciclo de Teste:
 <img  alt="Relatorio de teste Amazon" width="700" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Amazon.png?raw=true">
 
 
@@ -90,7 +97,7 @@ como uso do GIT, javascript e boas práticas e organização de código.
 
 </details>
 
-## Clone para Execução
+## 📀 Clone para Execução
 
 Clone este repositório para sua máquina local usando comando abaixo:
 
@@ -143,7 +150,7 @@ npx cypress run
 ```
 
 
-## Autor
+## 💯 Autor
 
 <img style="border-radius: 50%;" src="https://github.com/roodrigoomendes.png" width="100px" alt=""/><br>
 <br />
