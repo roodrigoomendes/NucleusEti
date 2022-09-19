@@ -38,11 +38,17 @@ como uso do GIT, javascript e boas práticas e organização de código.
 <img  alt="AluraPic - CT0001 Cadastro" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/AluraPic-CT0002.gif?raw=true">
 
 
-## Acessar o relatório Mochawesome:
-<a link href="">![Site](https://shields.io/badge/acessar-mochawesome-green?&style=for-the-badge)</a>
+## relatório Mochawesome CT001 Cadastro:
+![Mocha](https://img.shields.io/badge/-mochawesome-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+<br>
+<img  alt="AluraPic - CT0001 Cadastro" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT001.png?raw=true">
+
+## relatório Mochawesome CT002 Login:
+![Mocha](https://img.shields.io/badge/-mochawesome-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+<br>
+<img  alt="AluraPic - CT002 Login" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT002.png?raw=true">
+<br>
 </details>
-
-
 
 ## Amazon
 <details><summary>Documentação</summary>
@@ -55,9 +61,11 @@ como uso do GIT, javascript e boas práticas e organização de código.
 <img  alt="AluraPic - CT0001 Cadastro" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Amazon-CT0001.gif?raw=true">
 
 
-## Acessar o relatório Mochawesome:
-<a link href="">![Site](https://shields.io/badge/acessar-mochawesome-green?&style=for-the-badge)</a>
-</details>
+## relatório Mochawesome CT001 Carrinho de Compra:
+![Mocha](https://img.shields.io/badge/-mochawesome-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+<br>
+<img  alt="AluraPic - CT001 Carrinho de Compra" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT001%20Amazon.png?raw=true">
+<br>
 
 
 ## Clone para Execução
