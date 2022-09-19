@@ -43,11 +43,26 @@ como uso do GIT, javascript e boas práticas e organização de código.
 <br>
 <img  alt="AluraPic - CT0001 Cadastro" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT001.png?raw=true">
 
+## relatório Cypress CT001 Cadastro:
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+<br>
+<img  alt="AluraPic - CT0001 Cadastro" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Alura%20Pic%20CT001%20cadastro.png?raw=true">
+
+
 ## relatório Mochawesome CT002 Login:
 ![Mocha](https://img.shields.io/badge/-mochawesome-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 <br>
 <img  alt="AluraPic - CT002 Login" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT002.png?raw=true">
 <br>
+
+
+
+## relatório Cypress CT002 Login:
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+<br>
+<img  alt="AluraPic - CT002 Login" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Alura%20Pic%20CT002%20Login.png?raw=true">
+<br>
+
 </details>
 
 ## Amazon
@@ -64,9 +79,16 @@ como uso do GIT, javascript e boas práticas e organização de código.
 ## relatório Mochawesome CT001 Carrinho de Compra:
 ![Mocha](https://img.shields.io/badge/-mochawesome-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 <br>
-<img  alt="AluraPic - CT001 Carrinho de Compra" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT001%20Amazon.png?raw=true">
+<img  alt="Amazon - CT001 Carrinho de Compra" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/CT001%20Amazon.png?raw=true">
 <br>
 
+## relatório Cypress CT001 Carrinho de Compra:
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+<br>
+<img  alt="Amazon - CT001 Carrinho de Compra" width="500" src="https://github.com/roodrigoomendes/NucleusEti/blob/main/assets/Amazon%20CT001%20carrinho%20de%20compra.png?raw=true">
+<br>
+
+</details>
 
 ## Clone para Execução
 
@@ -123,7 +145,7 @@ npx cypress run
 
 ## Autor
 
-<img style="border-radius: 50%;" src="https://media-exp2.licdn.com/dms/image/D4E35AQF5GqZ5re511A/profile-framedphoto-shrink_400_400/0/1653410495003?e=1658721600&v=beta&t=YXPeYBSZBIAtBpnWOYI2JA9kNhK5_zzgI7Otohv9KMo" width="100px" alt=""/><br>
+<img style="border-radius: 50%;" src="https://github.com/roodrigoomendes.png" width="100px" alt=""/><br>
 <br />
 Feito com ❤️ por Rodrigo Mendes 👋🏽 Entre em contato!
 <br/>
